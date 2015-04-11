@@ -9,6 +9,7 @@
 
 ＃動作の保証はしません。
 
+![ScreenShot](https://github.com/ifapmzadu6/elebeateditor/blob/master/ScreenShot1.png)
 
 # Licenses
 
